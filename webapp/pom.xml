@@ -41,9 +41,6 @@
     </dependency>
   </dependencies>
 
-      <properties>
-       <maven.compiler.source>15.0</maven.compiler.source>
-       <maven.compiler.target>15.0</maven.compiler.target>
-    </properties>
+      
 
 </project>
